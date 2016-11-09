@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\Thomas\Desktop\Programming\Version-Control\Lab12\Lab12\obj\Debug\Lab12.pdb
